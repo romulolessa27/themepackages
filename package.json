@@ -1,0 +1,28 @@
+{
+  "name": "insightbasetheme",
+  "version": "1.0.0",
+  "description": "This is the initial package to install all node modules and its dependencies",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "?"
+  },
+  "author": "Romulo Lessa",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-browserify": "^0.5.1",
+    "gulp-compass": "^2.1.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-if": "^2.0.0",
+    "gulp-mamp": "0.0.4",
+    "gulp-uglify": "^1.5.1",
+    "gulp-util": "^3.0.7",
+    "lodash": "^4.0.1",
+    "path": "^0.12.7",
+    "browser-sync": "^2.11.1",
+    "jquery": "^2.2.0"
+  }
+}
